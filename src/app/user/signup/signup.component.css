@@ -1,0 +1,12 @@
+.rcorner{
+    border-radius: 25px;
+    margin: auto;
+    background: lightgreen;
+    width: 350px;
+    height: 450px;
+    padding: 30px;
+}
+
+#toast-container > div {
+    opacity:1;
+}
